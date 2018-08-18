@@ -1,4 +1,4 @@
-package com.javakids.hackerrank.solutions;
+package com.javakids.hackerrank.java;
 
 import java.math.BigInteger;
 import java.util.Scanner;
